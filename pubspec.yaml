@@ -2,7 +2,7 @@ name: flutter_image_viewpager
 description: A group of images are animated in rotation.
 version: 0.0.1
 author:
-homepage:
+homepage: https://github.com/wangchenggggdn/flutter_image_viewpager
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
