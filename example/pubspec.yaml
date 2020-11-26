@@ -1,6 +1,7 @@
 name: flutter_image_viewpager_example
 description: Demonstrates how to use the flutter_image_viewpager plugin.
 version: 0.0.1
+homepage: https://github.com/wangchenggggdn/flutter_image_viewpager
 # The following line prevents the package from being accidentally published to
 # pub.dev using `pub publish`. This is preferred for private packages.
 publish_to: 'none' # Remove this line if you wish to publish to pub.dev
